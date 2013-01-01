@@ -4,9 +4,12 @@ Abalone
 Abalone fan game with Java2d and sockets.
 
 
-![ScreenShot](https://raw.github.com/i-schuetz/abalone/master/abalone1.jpg)
+![ScreenShot](https://raw.github.com/i-schuetz/abalone/master/abalone1.JPG)
 
-[More about it here](http://ivanschuetz.com/index.php/portfolio?id=74)
+[More](http://ivanschuetz.com/index.php/portfolio?id=74)
+
+
+*I know, the images should be in a resources folder. 
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
